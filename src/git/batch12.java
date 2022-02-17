@@ -8,7 +8,7 @@ public class batch12 {
 		
 		
 		System.out.println("We the best.");
-		
+		System.out.println("We    are. Not    people.");
 		
 		
 		
