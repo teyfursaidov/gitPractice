@@ -17,7 +17,7 @@ public class batch12 {
 		
 		
 		
-		
+		System.out.println("123");
 		
 		
 		
