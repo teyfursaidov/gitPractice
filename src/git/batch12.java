@@ -13,7 +13,7 @@ public class batch12 {
 		System.out.println("We are doomed.");
 		
 		
-		
+		System.out.println("ABC");
 		
 		
 		
